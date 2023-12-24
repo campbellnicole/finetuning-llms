@@ -70,7 +70,7 @@ prompt_template_without_input = """Below is an instruction that describes a task
 ### Response:"""
 
 
-# ### Hydrate prompts (add data to prompts)
+# ### Hydrate prompts 
 
 # In[ ]:
 
